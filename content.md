@@ -24,3 +24,5 @@
     * Singleton
     * Factory
     * Others
+
+Leonardo Rene Eguino Vasquez
