@@ -24,3 +24,5 @@
     * Singleton
     * Factory
     * Others
+
+    Ariane Bustamante Orellana
