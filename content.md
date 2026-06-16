@@ -24,3 +24,5 @@
     * Singleton
     * Factory
     * Others
+
+Jose Carlos Guevara Romero
