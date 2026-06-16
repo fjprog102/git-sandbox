@@ -24,3 +24,5 @@
     * Singleton
     * Factory
     * Others
+
+Hebert Juan de Dios Delgadillo Fernandez
