@@ -24,3 +24,5 @@
     * Singleton
     * Factory
     * Others
+
+Name: Rodrigo Junior Espinoza Cruz
