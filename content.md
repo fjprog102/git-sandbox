@@ -24,3 +24,5 @@
     * Singleton
     * Factory
     * Others
+
+Nicolas Galean
