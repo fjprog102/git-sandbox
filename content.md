@@ -24,3 +24,5 @@
     * Singleton
     * Factory
     * Others
+
+Rene Dorian Diaz Crespo
