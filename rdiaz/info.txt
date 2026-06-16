@@ -1,1 +1,2 @@
 Rene Dorian Diaz Crespo
+List of programming languages: C++, C, C#, JavaScript, TypeScript, Python, Ruby
