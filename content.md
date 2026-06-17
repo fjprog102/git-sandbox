@@ -24,3 +24,5 @@
     * Singleton
     * Factory
     * Others
+
+Rosemberth Steeven Preciga Puentes
