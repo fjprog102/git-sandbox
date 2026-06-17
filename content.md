@@ -25,4 +25,6 @@
     * Factory
     * Others
 
-Name: Rodrigo Junior Espinoza Cruz
+Rodrigo Junior Espinoza Cruz
+Nicolas Galean
+Ariane Bustamante Orellana
