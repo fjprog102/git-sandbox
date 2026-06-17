@@ -1,0 +1,2 @@
+Leonardo Rene Eguino Vasquez
+python,c#,javascript,typescript
