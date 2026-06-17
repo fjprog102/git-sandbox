@@ -24,3 +24,5 @@
     * Singleton
     * Factory
     * Others
+
+Cristian Said Canapi Madrid
