@@ -28,3 +28,4 @@
 Nicolas Galean
 Ariane Bustamante Orellana
 Leonardo Rene Eguino Vasquez
+Rodrigo Junior Espinoza Cruz
