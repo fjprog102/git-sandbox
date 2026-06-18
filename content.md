@@ -32,3 +32,4 @@ Rodrigo Junior Espinoza Cruz
 Rene Dorian Diaz Crespo
 Hebert Juan de Dios Delgadillo Fernandez
 Cristian Said Canapi Madrid
+Rosemberth Steeven Preciga Puentes
